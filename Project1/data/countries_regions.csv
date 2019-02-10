@@ -1,0 +1,185 @@
+region,country,cntry_code
+Asia,Afghanistan,AFG
+Europe,Albania,ALB
+Africa,Algeria,DZA
+Africa,Angola,AGO
+North America,Antigua and Barbuda,ATG
+South America,Argentina,ARG
+Asia,Armenia,ARM
+North America,Aruba,ABW
+Australia,Australia,AUS
+Europe,Austria,AUT
+Asia,Azerbaijan,AZE
+North America,Bahamas,BHS
+Asia,Bahrain,BHR
+Asia,Bangladesh,BGD
+North America,Barbados,BRB
+Europe,Belarus,BLR
+Europe,Belgium,BEL
+North America,Belize,BLZ
+Africa,Benin,BEN
+Asia,Bhutan,BTN
+South America,Bolivia,BOL
+Europe,Bosnia and Herzegovina,BIH
+Africa,Botswana,BWA
+South America,Brazil,BRA
+Asia,Brunei,BRN
+Europe,Bulgaria,BGR
+Africa,Burkina Faso,BFA
+Africa,Burundi,BDI
+Asia,Cambodia,KHM
+Africa,Cameroon,CMR
+North America,Canada,CAN
+Africa,Central African Republic,CAF
+Africa,Chad,TCD
+South America,Chile,CHL
+Asia,China,CHN
+South America,Colombia,COL
+Africa,Comoros,COM
+Africa,Congo,COG
+North America,Costa Rica,CRI
+Africa,Cote d'Ivoire,CIV
+Europe,Croatia,HRV
+North America,Cuba,CUB
+Asia,Cyprus,CYP
+Europe,Czech Republic,CZE
+Europe,Czechoslovakia,OWID_CZS
+Africa,Democratic Republic of Congo,COD
+Europe,Denmark,DNK
+Africa,Djibouti,DJI
+North America,Dominica,DMA
+North America,Dominican Republic,DOM
+South America,Ecuador,ECU
+Africa,Egypt,EGY
+North America,El Salvador,SLV
+Africa,Equatorial Guinea,GNQ
+Africa,Eritrea,ERI
+Europe,Estonia,EST
+Africa,Ethiopia,ETH
+Australia,Fiji,FJI
+Europe,Finland,FIN
+Europe,France,FRA
+Australia,French Guiana,GUF
+Australia,French Polynesia,PYF
+Africa,Gabon,GAB
+Africa,Gambia,GMB
+Asia,Georgia,GEO
+Europe,Germany,DEU
+Africa,Ghana,GHA
+Europe,Greece,GRC
+North America,Grenada,GRD
+North America,Guadeloupe,GLP
+South America,Guatemala,GTM
+Africa,Guinea,GIN
+Africa,Guinea-Bissau,GNB
+South America,Guyana,GUY
+North America,Haiti,HTI
+North America,Honduras,HND
+Europe,Hungary,HUN
+Europe,Iceland,ISL
+Asia,India,IND
+Asia,Indonesia,IDN
+Asia,Iran,IRN
+Asia,Iraq,IRQ
+Europe,Ireland,IRL
+Asia,Israel,ISR
+Europe,Italy,ITA
+North America,Jamaica,JAM
+Asia,Japan,JPN
+Asia,Jordan,JOR
+Asia,Kazakhstan,KAZ
+Africa,Kenya,KEN
+Australia,Kiribati,KIR
+Asia,Kuwait,KWT
+Asia,Kyrgyzstan,KGZ
+Asia,Laos,LAO
+Europe,Latvia,LVA
+Asia,Lebanon,LBN
+Africa,Lesotho,LSO
+Africa,Liberia,LBR
+Africa,Libya,LBY
+Europe,Lithuania,LTU
+Europe,Luxembourg,LUX
+Europe,Macedonia,MKD
+Africa,Madagascar,MDG
+Africa,Malawi,MWI
+Asia,Malaysia,MYS
+Asia,Maldives,MDV
+Africa,Mali,MLI
+Europe,Malta,MLT
+North America,Martinique,MTQ
+Africa,Mauritania,MRT
+Africa,Mauritius,MUS
+North America,Mexico,MEX
+Europe,Moldova,MDA
+Asia,Mongolia,MNG
+Africa,Morocco,MAR
+Africa,Mozambique,MOZ
+Asia,Myanmar,MMR
+Africa,Namibia,NAM
+Asia,Nepal,NPL
+Europe,Netherlands,NLD
+Australia,New Caledonia,NCL
+Australia,New Zealand,NZL
+North America,Nicaragua,NIC
+Africa,Niger,NER
+Africa,Nigeria,NGA
+Asia,North Korea,PRK
+Europe,Norway,NOR
+Asia,Oman,OMN
+Asia,Pakistan,PAK
+North America,Panama,PAN
+Australia,Papua New Guinea,PNG
+South America,Paraguay,PRY
+South America,Peru,PER
+Asia,Philippines,PHL
+Europe,Poland,POL
+Europe,Portugal,PRT
+North America,Puerto Rico,PRI
+Asia,Qatar,QAT
+Europe,Reunion,REU
+Europe,Romania,ROU
+Asia,Russia,RUS
+Africa,Rwanda,RWA
+North America,Saint Lucia,LCA
+North America,Saint Vincent and the Grenadines,VCT
+Australia,Samoa,WSM
+Africa,Sao Tome and Principe,STP
+Asia,Saudi Arabia,SAU
+Africa,Senegal,SEN
+Africa,Seychelles,SYC
+Africa,Sierra Leone,SLE
+Asia,Singapore,SGP
+Europe,Slovakia,SVK
+Europe,Slovenia,SVN
+Australia,Solomon Islands,SLB
+Africa,Somalia,SOM
+Africa,South Africa,ZAF
+Asia,South Korea,KOR
+Europe,Spain,ESP
+Asia,Sri Lanka,LKA
+South America,Suriname,SUR
+Europe,Sweden,SWE
+Europe,Switzerland,CHE
+Asia,Syria,SYR
+Asia,Tajikistan,TJK
+Africa,Tanzania,TZA
+Asia,Thailand,THA
+Africa,Togo,TGO
+Africa,Tonga,TON
+North America,Trinidad and Tobago,TTO
+Africa,Tunisia,TUN
+Asia,Turkey,TUR
+Asia,Turkmenistan,TKM
+Africa,Uganda,UGA
+Europe,Ukraine,UKR
+Asia,United Arab Emirates,ARE
+Europe,United Kingdom,GBR
+North America,United States,USA
+South America,Uruguay,URY
+Asia,Uzbekistan,UZB
+Australia,Vanuatu,VUT
+South America,Venezuela,VEN
+Asia,Vietnam,VNM
+Africa,Zambia,ZMB
+Africa,Zimbabwe,ZWE
